@@ -41,6 +41,5 @@ Scope
   - the model definitions used (change parameter, sessions, weeks).
 
 Data availability
-- Provided for editorial/peer review; public release will follow journal policy upon acceptance.
-- Reviewers/editors can request additional code or materials during review (shared under appropriate access controls).
-- Upon acceptance, we will publicly release the complete modelling and analysis pipeline in a dedicated repository.
+- Anonymized data are provided for review; public release will follow journal policy upon acceptance.
+- Additional code/materials can be shared with editors on request; the full pipeline will be released upon acceptance.
