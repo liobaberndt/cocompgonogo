@@ -1,0 +1,86 @@
+record_id_v2,ethnicity,gender,sex,employment,medication,previouspsychotherapy,previouspsychotherapydetails,otherillnesses,Arm,Firebase ID,anonymous_id
+2,4,3,1,1.0,Montelukast  PreP (Tenofovir),0.0,,Asthma,Control,sub-60ac2dcb,sub-60ac2dcb
+5,4,1,1,1.0,,0.0,,,Control,sub-3208eeca,sub-3208eeca
+9,4,2,2,1.0,"Citalopram, 10mg",1.0,"1 course of CBT for social anxiety, included 6 sessions, 10 years ago.",,Active,sub-a373e73b,sub-a373e73b
+14,4,2,2,2.0,10mg Fluoxetine,1.0,I have had counselling in the past for about 6 weeks,,Control,sub-03917117,sub-03917117
+16,4,2,2,2.0,Marvelon ,0.0,,Asthma ,Active,sub-1f72e438,sub-1f72e438
+17,4,2,2,2.0,yasmin contraceptive pill,0.0,,,Active,sub-e61ad245,sub-e61ad245
+18,5,2,2,5.0,,1.0,"Threapy while I was in hospital, not completely sure what type of therapy that would be considered.",cancer (currently in remission),Control,sub-e0ee0e33,sub-e0ee0e33
+19,1,1,1,2.0,sertraline,1.0,I had weekly online group CBT for a couple of 6+ weeks before returning to my study. ,,Active,sub-841323fd,sub-841323fd
+20,4,2,2,1.0,,0.0,,,Active,sub-35d3f1b5,sub-35d3f1b5
+22,4,1,1,1.0, -,0.0,,no,Active,sub-fa7f56ca,sub-fa7f56ca
+23,4,2,2,3.0,"Sertraline 50mg, combined pill (30/50 ethinylestradiol/desogestrel)",1.0,"3x courses of talk therapy, between 4-6 sessions each time. ",,Control,sub-a016a539,sub-a016a539
+25,4,1,1,2.0,,0.0,,,Control,sub-1b357caf,sub-1b357caf
+26,3,1,1,2.0,Sertraline  Prep,0.0,,anxiety ,Active,sub-8c3306a7,sub-8c3306a7
+29,5,2,2,1.0,"Citalopram 10 mg , once a day   Supplements: Vitamins B12, C, D. Calcium, Magnesium, Collagen, Cod liver oil, apple cider vinegar pills.  ",0.0,,,Control,sub-c80f3bd6,sub-c80f3bd6
+30,4,1,1,1.0,Atorvastatin   Bisoprolol  Lanzoprazole  Ticegralor  Aspirin  Amlodipine  Isosorbide Mononitrate,1.0,"Does Counselling for bereavement count? This was one ve a week for 3 months or so, from a private counsellor.",Coronary artery disease,Control,sub-22720bc0,sub-22720bc0
+31,2,2,2,1.0,,0.0,,,Active,sub-6b576128,sub-6b576128
+32,3,2,2,1.0,Setraline ,1.0,CBT for 4 months ,No,Control,sub-7f50e3ef,sub-7f50e3ef
+33,1,1,1,3.0,Citalopram,0.0,,No,Active,sub-d3ca6dd9,sub-d3ca6dd9
+34,2,2,2,3.0,,0.0,,,Control,sub-7827d155,sub-7827d155
+37,4,2,2,1.0,,0.0,,,Active,sub-79ff801b,sub-79ff801b
+38,5,1,1,4.0,Can't remember  the name of the medicine .  Gp description .  The medicine make me sleep and relax . ,1.0,6 month psychotherapy  ,Tidiness  .fatigue  Sleeping condition   concentration and memory back pain   hearing problem        feet and leg weakness    ,Control,sub-144c64fe,sub-144c64fe
+42,4,2,2,1.0,Sertraline 100mg,1.0,Cbt,,Active,sub-04a3d25a,sub-04a3d25a
+43,3,2,2,1.0,,0.0,,PCOS,Control,sub-337a40b6,sub-337a40b6
+45,4,2,2,2.0,Oral contraception ,0.0,,No,Active,sub-90077526,sub-90077526
+51,4,1,1,1.0,,0.0,,,Control,sub-3851de38,sub-3851de38
+52,3,2,2,4.0,Sertraline 100mg,1.0,"Talk therapy, one hour session per week for 10 weeks.","Endometriosis, Vitamin D deficiency, Undifferentiated connective tissue disease (UCTD)",Control,sub-4def5224,sub-4def5224
+56,4,2,2,1.0,Propanolol  Betahistine Dihydrochloride  Desogestrel   ,1.0,I had a course of 6 sessions of CBT around 5 years ago ,No,Active,sub-8012d24b,sub-8012d24b
+57,4,1,1,5.0,none.,0.0,,"unexplained complications following a hip replacement (swelling, inflammation and being generally unwell)",Control,sub-bee41ffa,sub-bee41ffa
+61,4,2,2,4.0,,1.0,I had talking therapy for 6 years (psychoanalysis) between 20001-2006.  Two months of talking therapy (CBT) in 2019.,,Control,sub-420af7f4,sub-420af7f4
+65,1,1,1,2.0,nil,1.0,"1 course, 6 weeks, typing based  CBT at iCope",no,Active,sub-9bfa8a51,sub-9bfa8a51
+68,1,2,2,2.0,,1.0,I have been taking counselling sessions from my university for around one year on a regular basis - about once in a month. ,,Control,sub-8220f37c,sub-8220f37c
+69,3,2,2,3.0,,0.0,,,Control,sub-f97d3a6a,sub-f97d3a6a
+70,4,1,1,1.0,,1.0,Talk therapy for a year roughly 15 years ago,,Active,sub-98911d65,sub-98911d65
+71,3,2,2,3.0,Sumatriptan and Propranolol ,0.0,,Vestibular migraine condition ,Active,sub-99fa9be6,sub-99fa9be6
+72,1,2,2,2.0,,,,"Long-covid syndrome, includes brain fog, memory loss and etc. ",Control,sub-7ff5d4d4,sub-7ff5d4d4
+82,4,2,2,2.0,ventolin   fostair  ,1.0,a year and half almost 10 yrs ago in Italy.  6 sessions a couple of years ago for low mood and lack of focus at work  ,,Control,sub-3bcdec11,sub-3bcdec11
+84,4,2,2,2.0,N/a.,0.0,,Anxiety. ,Active,sub-40405c42,sub-40405c42
+85,4,2,2,1.0,HRT,1.0,I had some therapy when I was an adolescent and it was over 30 years ago.,No,Control,sub-a27abef0,sub-a27abef0
+91,5,2,2,1.0,"Venlafaxine 225 mg  Atenolol 50mg (to prevent migraines), if I have migraine, I take naratriptan 2.5mg + naproxen 500mg  Zyrtec 10 mg (allergies)  Nexplanon 68mg implant on left arm (put in 13th October 2021)",1.0,"had a therapist for about 2 years, psychoanalyst - follows Lacan psychoanalysis, did not like him from the first week, but couldn't tell him so I was stuck with him for 2 years","asthma, obesity.",Active,sub-f3c8be94,sub-f3c8be94
+96,1,2,2,2.0,,0.0,,,Control,sub-d9063322,sub-d9063322
+106,4,2,2,1.0,Sertraline 50mg daily,0.0,,no,Active,sub-ff5465db,sub-ff5465db
+112,1,2,2,3.0,,0.0,,,Active,sub-3ecd4f12,sub-3ecd4f12
+119,1,1,2,1.0,Setralin  Zolpidem  Amplodipine  Irbezartan  Anti retro viral,0.0,,Long covid symptoms,Control,sub-e65271d0,sub-e65271d0
+121,5,1,1,1.0,Sertraline 50mg 1tablet once daily  Propranolol 10mg 1tablet PRN  Levothyroxine sodium 100microgram 1tablet once daily  Fexofenadine 180mg 1tablet once daily  Dymista 137micrograms/dose / 50micrograms/dose nasal spray 1puff for each nostril twice daily,1.0,"Three times  1st: medication, talking therapy in Japan  2nd: medication only in UK  3rd: medication, CBT in UK","Hypothyroidism, chronic allergic rhinitis",Control,sub-00c62efa,sub-00c62efa
+122,4,1,1,1.0,Citalopram anti-depressives and Propanolol (also Atorvastatin for high cholesterol).,1.0,"I took cognitive behavioural therapy (CBT) twice, first in the late 2000s, and then in 2018, both as a result of having clinical depression. I have started for a third time recently due to low mood, although I am not suffering from cognitive depression at the moment. ",I have ADHD and high cholesterol.,Control,sub-5c54b2d8,sub-5c54b2d8
+129,2,1,1,1.0,Doxasozin  Sertralin   Verapamil  Moxonodine  Hydralazine  ,0.0,,,Active,sub-3e8f54c2,sub-3e8f54c2
+130,4,2,2,5.0,,1.0,I saw a psychotherapist every fortnight for four years during 2002-2006.  She has retired and I do not remember her surname,none,Active,sub-d6f12446,sub-d6f12446
+131,3,1,1,5.0,,1.0,"2020- Roughly 2 months, once a week. Counselling from a clinical psychologist, not sure what type of therapy it was. One on one, talk-based, over Zoom.    2022-Roughly 2 months, once a week. Counselling from a licensed counsellor, not sure what type of therapy it was. Talk-based, one on one, some in person and some over Zoom.",none,Control,sub-fbebde1d,sub-fbebde1d
+132,3,2,2,1.0,Tamoxifen  Alendronic Acid  Citalopram,0.0,,,Control,sub-7de85fe6,sub-7de85fe6
+141,4,2,2,2.0,,0.0,,,Active,sub-709f14de,sub-709f14de
+142,3,1,1,1.0,Hiv medication- Biktarvy 50mg/200mg/25mg ,0.0,,HIV Positive ,Active,sub-97503abc,sub-97503abc
+143,4,3,1,1.0,Sertraline 50mg,0.0,,,Control,sub-a11f7cd7,sub-a11f7cd7
+146,2,2,2,1.0,,0.0,,,Active,sub-bf322ad8,sub-bf322ad8
+147,4,2,2,1.0,Paroxetine 40mg,1.0,for about a year in Germany in 1999  since then then 2 attempts at counseling and currently on a waiting list.,,Control,sub-ef1dea70,sub-ef1dea70
+148,4,1,1,3.0,Omeprazole ,0.0,,IBS   Potential Celiac ,Control,sub-f3da226f,sub-f3da226f
+151,4,2,2,1.0,Amlodipine  Ezetimibe,1.0,17 years Integrative  18 months Integrative Arts Psychotherapy,,Control,sub-dc45f4fb,sub-dc45f4fb
+153,5,1,1,3.0,,1.0,"I had 8 sessions of cognitive therapy at UCL's CUBE Clinic, seeking help to deal with alcohol misuse. ","Not relevant I think, but I have a protrombine gene mutation. For precaution, I take an aspirin before flights. ",Control,sub-e95a43dc,sub-e95a43dc
+155,4,2,2,1.0,,0.0,,,Control,sub-008af5ba,sub-008af5ba
+157,1,2,2,3.0,"Cocodomol, fluoxetine, omeprazole",0.0,,"Hypermobility, anxiety and depression.",Control,sub-662e0e06,sub-662e0e06
+162,1,2,2,2.0,Sertraline,1.0,"I have had 1 session of Guided Self-help therapy under   IAPT. I have also had counselling in high school, sixth form and university. ",,Control,sub-777926a1,sub-777926a1
+169,4,2,2,1.0,Na,1.0,1 CBT course for 6 months at 19 yrs old.  1 EMDR course for 6 months at 27 yrs old. ,Na,Control,sub-24c4962f,sub-24c4962f
+170,1,2,2,2.0,Phenergan (for sleep),0.0,,,Active,sub-f83daa0d,sub-f83daa0d
+173,5,1,1,1.0,Prednisolone   Calcium carbonate vitamin D  Omeprazol    ,0.0,,Nephrotic syndrome  Low bond density,Control,sub-a1f1f799,sub-a1f1f799
+179,2,1,1,1.0,lansoprazole 15mg  SEMAGLUTIDE  ISOtretinoin,0.0,,,Control,sub-ce793d35,sub-ce793d35
+180,4,2,2,1.0,Sertraline 100mg ,1.0,"I've had CBT three times, only completing the course once, the other times I had two sessions and three sessions before dropping out.  I had 3 sessions of hypnotherapy. ",,Active,sub-ab15a52f,sub-ab15a52f
+182,4,2,2,1.0,"Naproxen, and Vitamins ",1.0,It was for a month.   I was young. I think it was a normal psychologist  ,"Osteoarthritis, dermatitis, possibly endometriosis ( under investigation )",Control,sub-6599dea2,sub-6599dea2
+189,1,1,1,1.0,,0.0,,,Control,sub-f34c0fdb,sub-f34c0fdb
+190,4,2,2,1.0,,1.0,Worry management CBT ,,Control,sub-d6512f9a,sub-d6512f9a
+191,4,2,2,3.0,,0.0,,,Active,sub-bef92146,sub-bef92146
+193,4,1,1,3.0,,1.0,Psicoterapia for few months. Jungian Therapist. It was to know if there was a problem in me that stop me from having a successful business (after 4 failed ones),"Chronic pain in right foot, left knee, groin, ocasional chest pain (this last one gets better when I lose weight)",Control,sub-0b481e0b,sub-0b481e0b
+195,5,2,2,1.0,paroxetine and rigevidon ,0.0,,pmdd,Control,sub-6ec2e3dd,sub-6ec2e3dd
+197,4,2,2,3.0,,1.0,One year talking therapy in 2022,,Control,sub-0604ea6d,sub-0604ea6d
+199,4,1,1,1.0, -,0.0,, -,Active,sub-06c6dd74,sub-06c6dd74
+202,1,2,2,3.0,no medication I am currently taking,0.0,,I do not have any other illnesses,Control,sub-5899553b,sub-5899553b
+206,4,1,1,1.0,"citalopram, propranolol, ",1.0,3 x 1 hourly sessions in 2017. Unsure of what type: it was free sessions at university ,Migraines ,Active,sub-485276eb,sub-485276eb
+210,4,1,1,2.0,,0.0,,,Control,sub-aabca9af,sub-aabca9af
+213,1,2,2,3.0,,0.0,,,Active,sub-c2f39d63,sub-c2f39d63
+215,4,2,2,1.0,none,0.0,,PBC ,Control,sub-2efcb429,sub-2efcb429
+217,4,1,1,1.0,,1.0,I had behavioural therapy for 6 sessions in 2020,no,Control,sub-fc2a72bb,sub-fc2a72bb
+223,1,2,2,2.0,,0.0,,,Active,sub-585c07a5,sub-585c07a5
+224,4,1,1,1.0,Dovato  Ramipril  Doxazosin  Bendroflumethiazide,1.0,I recall having psychotherapy sessions over 20 years ago. I don't recall the details.,HIV & high blood pressure,Control,sub-e4c222c1,sub-e4c222c1
+231,1,2,2,2.0,Escitalopram ,1.0,"1 year, psychodynamic therapy ",,Control,sub-9920be3e,sub-9920be3e
+233,4,2,2,3.0,Sumatriptan when I get a migraine,0.0,,Anxiety,Active,sub-80f39bc8,sub-80f39bc8
+237,1,2,2,1.0,Sertraline 100mg,0.0,,No,Active,sub-7063e937,sub-7063e937
+238,1,2,2,2.0,,0.0,,,Control,sub-609f9da1,sub-609f9da1
