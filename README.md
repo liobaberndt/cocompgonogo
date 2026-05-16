@@ -1,4 +1,4 @@
-## Go/No-Go — Anonymized Data Package for Review
+## Go/No-Go: Anonymized Data Package for Review
 
 Overview
 - Anonymized data supporting the Go/No-Go analysis for editorial/peer review.
